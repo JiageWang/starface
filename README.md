@@ -18,11 +18,11 @@
 
 3. run `python main.py --img <img_path>` to find your most similar star face. Here is some result
 
-   ![myresult](example\myresult.png)
+   ![myresult](example/myresult.png)
 
-   ![result2](example\result2.png)
+   ![result2](example/result2.png)
 
-   ![result3](example\result3.png)
+   ![result3](example/result3.png)
 
 ## Reference
 
